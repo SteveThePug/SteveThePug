@@ -4,6 +4,8 @@ I swear I'm not so haphazard as my commit history seems to suggest, seeing 400+ 
 
 Sayonara.
 
+Hello again also please check out my website :) https://www.adam-french.co.uk/
+
 ## Other bits
 
 - 🔭 I’m currently working on my homelab and taking supplementary courses.
